@@ -1,0 +1,9 @@
+Equity Analysis 2  (Lulu Lemon Project) In this assignment, students are required to build a pro forma financial model for their assigned company.
+
+
+
+The model must include a fully integrated income statement, balance sheet, and cash flow statement, and must be balanced—that is, the financial statements must logically connect, and the balance sheet must reflect the accounting identity: Assets = Liabilities + Shareholders’ Equity.
+Pro forma revenue should be based on Street consensus estimates unless otherwise instructed.
+Students should not create independent revenue forecasts at this stage. You will need to create a revenue forecast for the final report.
+The homework must be submitted via Blackboard by the assigned deadline.
+ and this is what it needs to look like this is what i am supposed to turn it. the professor said for the sales for the pro forma income statement use estimations from the industry. just make sure you look it so we can see where you got the number from
